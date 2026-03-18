@@ -1,0 +1,10 @@
+streamlit
+pandas
+pandas-ta
+ccxt
+pytz
+yfinance
+ta-lib-bin
+scikit-learn
+numpy
+requests
